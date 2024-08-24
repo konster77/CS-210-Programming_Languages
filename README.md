@@ -1,5 +1,7 @@
 # CS-210-Programming_Languages
 
+Christopher Kon
+
 Summarize the project and what problem it was solving.
 The Corner Grocer required a program to track items by analyzing the text records generated throughout their business day. The goal was to determine the frequency of purchases to help optimize the store's layout. I developed this program using C++. It reads data from a file, processes and organizes it, communicates within the program, and then outputs the results.
 
